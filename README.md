@@ -18,7 +18,7 @@
  
 ## Installing required python dependencies
 
-- Clone this repository onto your system
+- Clone this repository onto your system.
 ```bash
 git clone https://github.com/thesarthakjain/discord-autospawn
 ```
