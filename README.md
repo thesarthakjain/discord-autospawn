@@ -4,12 +4,12 @@
 </p>
 
 ## Pre-requisites:
-- [X] python 3.5 or 3.6
-- [X] selenium
+- [X] Python 3.5 or 3.6
+- [X] Selenium webdriver 3.141.0
 ```
  pip install -U selenium
  ```
-- [X] chrome webdriver for specific version of chrome
+- [X] Chrome webdriver for the specific version of chrome.
 ```
  https://sites.google.com/a/chromium.org/chromedriver/downloads
  ```
