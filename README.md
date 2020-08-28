@@ -28,6 +28,6 @@ $ git clone https://github.com/thesarthakjain/discord-autospawn
 
 - Run the following commands in the project directory:
 ```
-$ python cred_creater.py		#to save your discord login credentials in 'cred.py'
+$ python cred_creater.py	#to save your discord login credentials in 'cred.py'
 $ python autospawn.py		#to perform login and run autospawn
 ```
