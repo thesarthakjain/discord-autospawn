@@ -8,7 +8,7 @@
 - [X] Python 3.5 or 3.6
 - [X] Selenium webdriver 3.141.0
 ```
- pip install -U selenium
+ $ pip install -U selenium
  ```
 - [X] Chrome webdriver for the specific version of chrome.
 ```
@@ -20,7 +20,7 @@
 
 - Clone this repository onto your system.
 ```bash
-git clone https://github.com/thesarthakjain/discord-autospawn
+$ git clone https://github.com/thesarthakjain/discord-autospawn
 ```
 
 
@@ -28,6 +28,6 @@ git clone https://github.com/thesarthakjain/discord-autospawn
 
 - Run the following commands in the project directory:
 ```
-python cred_creater.py		#to save your discord login credentials in 'cred.py'
-python autospawn.py		#to perform login and run autospawn
+$ python cred_creater.py		#to save your discord login credentials in 'cred.py'
+$ python autospawn.py		#to perform login and run autospawn
 ```
